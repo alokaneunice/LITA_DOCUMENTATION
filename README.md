@@ -5,15 +5,15 @@
 
 [Data Sources](#data-sources)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data cleaning](data-cleaning)
+[Data cleaning](#data-cleaning)
 
-[Exploratory Data Analysis](exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ### Data Sources
