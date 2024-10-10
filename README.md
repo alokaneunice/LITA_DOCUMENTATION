@@ -16,3 +16,6 @@ this is where we include some basic lines codes or queries or even some of the D
 ```EXCEL
 =IF(J8<=20, "LOW", IF(J8<=50, "MEDIUM", "HIGH"))
 ```
+### Data Visualization
+
+![Screenshot_2](https://github.com/user-attachments/assets/56d8e226-4af9-4183-98d9-ecd883269fb0)
